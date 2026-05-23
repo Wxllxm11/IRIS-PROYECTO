@@ -17,7 +17,7 @@ Universidad de la Costa · Mineria de Datos
 
 ---
 
-## De que va esto
+## Objetivo
 
 El objetivo es predecir a que especie pertenece una flor Iris segun cuatro medidas: el largo y ancho del sepalo, y el largo y ancho del petalo. El dataset tiene 150 flores repartidas en tres especies: setosa, versicolor y virginica.
 
