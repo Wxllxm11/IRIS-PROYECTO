@@ -30,7 +30,7 @@ Para eso entrenamos un modelo de Random Forest y montamos todo en un dashboard i
 ### 1. Clona el repositorio
 
 ```
-git clone https://github.com/Wxllxm11/IRIS-FINAL-PROYECT.git
+git clone https://github.com/Wxllxm11/IRIS-PROYECTO.git
 cd IRIS-FINAL-PROYECT
 ```
 
