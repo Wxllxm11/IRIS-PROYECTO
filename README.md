@@ -34,7 +34,7 @@ git clone https://github.com/Wxllxm11/IRIS-PROYECTO.git
 cd IRIS-PROYECTO
 ```
 
-### 2. Crea un entorno virtual (opcional pero recomendado)
+### 2. Crea un entorno virtual 
 
 ```
 python -m venv venv
@@ -53,6 +53,7 @@ pip install -r requirements.txt
 ```
 streamlit run Proyect.py
 ```
+### 5. Link directo 
 
 https://iris-proyecto.streamlit.app/
 
