@@ -54,7 +54,7 @@ pip install -r requirements.txt
 streamlit run Proyect.py
 ```
 
-La app se abre en el navegador en `http://localhost:8501`
+https://iris-proyecto.streamlit.app/
 
 ---
 
