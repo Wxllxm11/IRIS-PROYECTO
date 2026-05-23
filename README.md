@@ -31,7 +31,7 @@ Para eso entrenamos un modelo de Random Forest y montamos todo en un dashboard i
 
 ```
 git clone https://github.com/Wxllxm11/IRIS-PROYECTO.git
-cd IRIS-FINAL-PROYECT
+cd IRIS-PROYECTO
 ```
 
 ### 2. Crea un entorno virtual (opcional pero recomendado)
