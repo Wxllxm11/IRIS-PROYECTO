@@ -27,33 +27,7 @@ Para eso entrenamos un modelo de Random Forest y montamos todo en un dashboard i
 
 ## Como correr el proyecto
 
-### 1. Clona el repositorio
-
-```
-git clone https://github.com/Wxllxm11/IRIS-PROYECTO.git
-cd IRIS-PROYECTO
-```
-
-### 2. Crea un entorno virtual 
-
-```
-python -m venv venv
-source venv/bin/activate        # Linux / Mac
-venv\Scripts\activate           # Windows
-```
-
-### 3. Instala las dependencias
-
-```
-pip install -r requirements.txt
-```
-
-### 4. Corre la app
-
-```
-streamlit run Proyect.py
-```
-### 5. Link directo 
+### Link directo 
 
 https://iris-proyecto.streamlit.app/
 
