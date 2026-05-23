@@ -2,7 +2,18 @@
 
 Universidad de la Costa — Mineria de Datos
 
-Proyecto final hecho por William Angulo y Martin Torres.
+Proyecto final 
+## Integrantes
+
+| Nombre         | Programa               |
+|----------------|------------------------|
+| William Angulo | Ingenieria de Sistemas |
+| Martin Torres  | Ingenieria de Sistemas |
+
+---
+
+Universidad de la Costa · Mineria de Datos
+
 
 ---
 
@@ -91,14 +102,3 @@ IRIS-FINAL-PROYECT/
 ```
 
 ---
-
-## Integrantes
-
-| Nombre         | Programa               |
-|----------------|------------------------|
-| William Angulo | Ingenieria de Sistemas |
-| Martin Torres  | Ingenieria de Sistemas |
-
----
-
-Universidad de la Costa · Mineria de Datos
