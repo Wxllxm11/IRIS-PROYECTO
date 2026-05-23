@@ -94,7 +94,7 @@ Es robusto ante valores atipicos, no asume ninguna distribucion especifica de lo
 ## Estructura del repositorio
 
 ```
-IRIS-FINAL-PROYECT/
+IRIS-PROYECTO/
 ├── Proyect.py          # App principal de Streamlit
 ├── Iris.csv            # Dataset
 ├── requirements.txt    # Dependencias
